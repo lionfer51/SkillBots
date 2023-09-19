@@ -1,0 +1,12 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+C1,C_Disc_D3.8mm_W2.6mm_P2.50mm,1,0.33uF,
+C2,C_Disc_D3.8mm_W2.6mm_P2.50mm,1,0.1 uF,
+D1,D_DO-41_SOD81_P10.16mm_Horizontal,1,RL207,
+J1,TerminalBlock_bornier-2_P5.08mm,1,POWER,
+J2,PinSocket_1x04_P2.54mm_Horizontal,1,HC06,
+J3,TerminalBlock_bornier-2_P5.08mm,1,MOTOR A,
+J4,TerminalBlock_bornier-2_P5.08mm,1,MOTOR B,
+Q1,TO254P450X1020X1935-3P,1,L78S10CV,L78S10CV
+S1,SW_MINI-SPDT-SW,1,MINI-SPDT-SW,
+U1,MODULE_ROB-14450,1,ROB-14450,
+XA1,Arduino_Nano_Every_Socket,1,Arduino_Nano_Every_Socket,

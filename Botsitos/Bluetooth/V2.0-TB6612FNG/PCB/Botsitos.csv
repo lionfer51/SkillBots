@@ -1,0 +1,37 @@
+"Source:","C:\Users\ccant\OneDrive\Escritorio\Botsitos\Botsitos.kicad_sch"
+"Date:","22/06/2023 02:26:52 p. m."
+"Tool:","Eeschema (6.0.10)"
+"Generator:","C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","11"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","A_MAX","A_MIN","A_NOM","B_MAX","B_MIN","B_NOM","D_MAX","D_MIN","D_NOM","E1_MAX","E1_MIN","E1_NOM","ENOM","E_NOM","MANUFACTURER","MAXIMUM_PACKAGE_HEIGHT","PARTREV","PIN_COUNT","STANDARD"
+"","","A1","Arduino_Nano_v3.x","MCU_Module:Arduino_Nano_v3.x","Module:Arduino_Nano","http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf","","","","","","","","","","","","","","","","","","",""
+"","","D1","1N4007","Diode:1N4007","Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal","http://www.vishay.com/docs/88503/1n4001.pdf","","","","","","","","","","","","","","","","","","",""
+"","","D2","1N4740","Diode:1N47xxA","Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal","https://www.vishay.com/docs/85816/1n4728a.pdf","","","","","","","","","","","","","","","","","","",""
+"","","J1","POWER","Connector:Screw_Terminal_01x02","TerminalBlock:TerminalBlock_bornier-2_P5.08mm","~","","","","","","","","","","","","","","","","","","",""
+"","","J2","MOTOR A","Connector:Screw_Terminal_01x02","TerminalBlock:TerminalBlock_bornier-2_P5.08mm","~","","","","","","","","","","","","","","","","","","",""
+"","","J3","MOTOR B","Connector:Screw_Terminal_01x02","TerminalBlock:TerminalBlock_bornier-2_P5.08mm","~","","","","","","","","","","","","","","","","","","",""
+"","","J4","HC06","Connector:Conn_01x04_Female","Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Horizontal","~","","","","","","","","","","","","","","","","","","",""
+"","","Q1","TIP41","Transistor_BJT:TIP41","Package_TO_SOT_THT:TO-220-3_Vertical","https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=tip41.PDF","","","","","","","","","","","","","","","","","","",""
+"","","R1","20","Device:R","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal","~","","","","","","","","","","","","","","","","","","",""
+"","","S1","MINI-SPDT-SW","MINI-SPDT-SW:MINI-SPDT-SW","tt:SW_MINI-SPDT-SW","","","","","","","","","","","","","","","","GRAVITECH","","C","","Manufacturer Recommendations"
+"","","U1","L293D","L293D:L293D","Botsitos:DIP880W50P254L2000H510Q16","","5.1","5.1","5.1","0.5","0.5","0.5","20.0","20.0","20.0","7.1","7.1","7.1","2.54","8.8","ST Microelectronics","5.1mm","","16.0","IPC 7351B"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","A_MAX","A_MIN","A_NOM","B_MAX","B_MIN","B_NOM","D_MAX","D_MIN","D_NOM","E1_MAX","E1_MIN","E1_NOM","ENOM","E_NOM","MANUFACTURER","MAXIMUM_PACKAGE_HEIGHT","PARTREV","PIN_COUNT","STANDARD"
+"1","1","A1","Arduino_Nano_v3.x","MCU_Module:Arduino_Nano_v3.x","Module:Arduino_Nano","http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf","","","","","","","","","","","","","","","","","","",""
+"2","1","D1","1N4007","Diode:1N4007","Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal","http://www.vishay.com/docs/88503/1n4001.pdf","","","","","","","","","","","","","","","","","","",""
+"3","1","D2","1N4740","Diode:1N47xxA","Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal","https://www.vishay.com/docs/85816/1n4728a.pdf","","","","","","","","","","","","","","","","","","",""
+"4","1","J1","POWER","Connector:Screw_Terminal_01x02","TerminalBlock:TerminalBlock_bornier-2_P5.08mm","~","","","","","","","","","","","","","","","","","","",""
+"5","1","J2","MOTOR A","Connector:Screw_Terminal_01x02","TerminalBlock:TerminalBlock_bornier-2_P5.08mm","~","","","","","","","","","","","","","","","","","","",""
+"6","1","J3","MOTOR B","Connector:Screw_Terminal_01x02","TerminalBlock:TerminalBlock_bornier-2_P5.08mm","~","","","","","","","","","","","","","","","","","","",""
+"7","1","J4","HC06","Connector:Conn_01x04_Female","Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Horizontal","~","","","","","","","","","","","","","","","","","","",""
+"8","1","Q1","TIP41","Transistor_BJT:TIP41","Package_TO_SOT_THT:TO-220-3_Vertical","https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=tip41.PDF","","","","","","","","","","","","","","","","","","",""
+"9","1","R1","20","Device:R","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal","~","","","","","","","","","","","","","","","","","","",""
+"10","1","S1","MINI-SPDT-SW","MINI-SPDT-SW:MINI-SPDT-SW","tt:SW_MINI-SPDT-SW","","","","","","","","","","","","","","","","GRAVITECH","","C","","Manufacturer Recommendations"
+"11","1","U1","L293D","L293D:L293D","Botsitos:DIP880W50P254L2000H510Q16","","5.1","5.1","5.1","0.5","0.5","0.5","20.0","20.0","20.0","7.1","7.1","7.1","2.54","8.8","ST Microelectronics","5.1mm","","16.0","IPC 7351B"

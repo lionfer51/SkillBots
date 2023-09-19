@@ -1,0 +1,15 @@
+Info: Procesando el símbolo 'C1:Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm'.
+Info: Procesando el símbolo 'C2:Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm'.
+Info: Procesando el símbolo 'D1:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Procesando el símbolo 'J1:TerminalBlock:TerminalBlock_bornier-2_P5.08mm'.
+Info: Procesando el símbolo 'J2:Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Horizontal'.
+Info: Procesando el símbolo 'J3:TerminalBlock:TerminalBlock_bornier-2_P5.08mm'.
+Info: Procesando el símbolo 'J4:TerminalBlock:TerminalBlock_bornier-2_P5.08mm'.
+Info: Procesando el símbolo 'Q1:User:TO254P450X1020X1935-3P'.
+Info: Procesando el símbolo 'S1:User:SW_MINI-SPDT-SW'.
+Info: Procesando el símbolo 'U1:User:MODULE_ROB-14450'.
+Info: Procesando el símbolo 'XA1:PCM_arduino-library:Arduino_Nano_Every_Socket'.
+Aviso: Vía conectada a red desconocida ().
+
+
+Info: Número de avisos: 1, errores: 0.

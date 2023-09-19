@@ -1,0 +1,11 @@
+Materiales-Botsitos
+3 Baterías de Litio 18650
+1 Portapilas de 3 baterías
+1 Pack jumpers macho-hembra
+1 par de conectores 12V (macho-hembra)
+1 Driver L298N
+2 Motores DC con motorreductor amarillo
+1 Switch
+1 Módulo BT HC06
+1 Arduino Nano
+1 Shield extensor Arduino NANO

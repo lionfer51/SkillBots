@@ -1,0 +1,19 @@
+Materiales
+
+Alimentación y Motores
+3 Baterías de Litio 18650
+1 Portapilas de 3 baterías
+2 Pack jumpers macho-macho
+1 par de conectores 12V (macho-hembra)
+2 Motores DC con motorreductor amarillo
+
+PCB
+1 Arduino Nano
+1 Módulo BT HC06
+3 Borneras 1*2 (Dos espacios)
+1 Regulador L78S10CV
+1 Diodo RL207 (2A)
+1 Condensador cerámico 0.33 uF
+1 Condensador cerámico 0.1 uF
+1 Driver TB6612FNG
+1 Switch para PCB (3 pines)
